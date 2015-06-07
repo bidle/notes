@@ -1,0 +1,149 @@
+{
+    "fonts.fontSize": "12px",
+    "me.drewh.jsbeautify.on_save": true,
+    "sbruchmann.staticpreview.hostname": "localhost",
+    "sbruchmann.staticpreview.port": 3000,
+    "sbruchmann.staticpreview.livereloadPort": 35729,
+    "themes.theme": "flat-attack-dark-theme",
+    "brackets-snippets.defaultSnippetDirectory": "C:/Users/blakeidle.com/AppData/Roaming/Brackets/snippets/",
+    "brackets-snippets.snippetDirectories": [
+        {
+            "fullPath": "C:/Users/blakeidle.com/AppData/Roaming/Brackets/extensions/user/zaggino.brackets-snippets/default_snippets/angularjs/",
+            "autoLoad": true
+        },
+        {
+            "fullPath": "C:/Users/blakeidle.com/AppData/Roaming/Brackets/extensions/user/zaggino.brackets-snippets/default_snippets/bootstrap/",
+            "autoLoad": true
+        },
+        {
+            "fullPath": "C:/Users/blakeidle.com/AppData/Roaming/Brackets/extensions/user/zaggino.brackets-snippets/default_snippets/foundation/",
+            "autoLoad": true
+        },
+        {
+            "fullPath": "C:/Users/blakeidle.com/AppData/Roaming/Brackets/extensions/user/zaggino.brackets-snippets/default_snippets/html/",
+            "autoLoad": true
+        },
+        {
+            "fullPath": "C:/Users/blakeidle.com/AppData/Roaming/Brackets/extensions/user/zaggino.brackets-snippets/default_snippets/js/",
+            "autoLoad": true
+        },
+        {
+            "fullPath": "C:/Users/blakeidle.com/AppData/Roaming/Brackets/extensions/user/zaggino.brackets-snippets/default_snippets/anylang/",
+            "autoLoad": true
+        },
+        {
+            "fullPath": "C:/Users/blakeidle.com/AppData/Roaming/Brackets/extensions/user/zaggino.brackets-snippets/default_snippets/php/",
+            "autoLoad": true
+        }
+    ],
+    "brackets-various-improvements.user-prefs": {
+        "enabled-features": {
+            "case-converter": true,
+            "better-interface": true,
+            "super-clipboard": true,
+            "search-files": true
+        },
+        "files-extensions": [
+            ".js",
+            ".css",
+            ".html"
+        ],
+        "units": "byte"
+    },
+    "git-projects.maxDepth": 2,
+    "git-projects.lastVersion": "0.0.5",
+    "brackets-indent-guides.enabled": true,
+    "styleActiveLine": true,
+    "livedev.multibrowser": true,
+    "theseus.enabled": false,
+    "theseus.mode": "proxy",
+    "code-folding.folds": {},
+    "themes-brackets-extension.paths": [
+        {
+            "path": "C:/Users/blakeidle.com/AppData/Roaming/Brackets/extensions/themes"
+        },
+        {
+            "path": "C:/Users/blakeidle.com/AppData/Roaming/Brackets/extensions/user/themes/theme"
+        },
+        {
+            "path": "C:/Program Files (x86)/Brackets/www/thirdparty/CodeMirror2/theme"
+        }
+    ],
+    "linting.enabled": true,
+    "useTabChar": false,
+    "wordWrap": false,
+    "prefUI.proxy-enabled": false,
+    "prefUI.proxy-string": ":@:",
+    "smartIndent": true,
+    "insertHintOnTab": true,
+    "sortDirectoriesFirst": true,
+    "staticserver.port": "http://localhost:3000",
+    "scrollPastEnd": false,
+    "softTabs": true,
+    "closeBrackets": true,
+    "dragDropText": true,
+    "showCursorWhenSelecting": true,
+    "uppercaseColors": false,
+    "highlightMatches": true,
+    "showCodeHints": true,
+    "maxCodeHints": "50",
+    "codehint.TagHints": true,
+    "codehint.SpecialCharHints": true,
+    "codehint.AttrHints": true,
+    "codehint.CssPropHints": true,
+    "codehint.JSHints": true,
+    "codehint.SVGHints": true,
+    "codehint.UrlCodeHints": true,
+    "jscodehints.noHintsOnDot": false,
+    "linting.collapsed": true,
+    "com.github.dsbonev.WhitespaceNormalizer.enabled": true,
+    "com.github.dsbonev.WhitespaceNormalizer.trim": false,
+    "com.github.dsbonev.WhitespaceNormalizer.transf": false,
+    "com.github.dsbonev.WhitespaceNormalizer.eofnl": false,
+    "jwolfe.file-tree-exclude.list": [
+        "node_modules",
+        "bower_components",
+        ".git",
+        "dist",
+        "vendor"
+    ],
+    "brackets-git.stripWhitespaceFromCommits": true,
+    "brackets-git.addEndlineToTheEndOfFile": true,
+    "brackets-git.removeByteOrderMark": false,
+    "brackets-git.normalizeLineEndings": false,
+    "brackets-git.useGitGutter": true,
+    "brackets-git.markModifiedInTree": true,
+    "brackets-git.showBashButton": true,
+    "brackets-git.showReportBugButton": true,
+    "brackets-git.useCodeInspection": true,
+    "brackets-git.useGitFtp": false,
+    "brackets-git.useVerboseDiff": false,
+    "brackets-git.useDifftool": false,
+    "brackets-git.showTerminalIcon": false,
+    "brackets-git.clearWhitespaceOnSave": false,
+    "brackets-git.avatarType": "AVATAR_COLOR",
+    "brackets-git.dateMode": 1,
+    "brackets-git.dateFormat": null,
+    "brackets-git.enableAdvancedFeatures": false,
+    "brackets-git.panelShortcut": "Ctrl-Alt-G",
+    "brackets-git.commitCurrentShortcut": null,
+    "brackets-git.commitAllShortcut": null,
+    "brackets-git.bashShortcut": null,
+    "brackets-git.pushShortcut": null,
+    "brackets-git.pullShortcut": null,
+    "brackets-git.gotoPrevChangeShortcut": null,
+    "brackets-git.gotoNextChangeShortcut": null,
+    "brackets-git.gitPath": null,
+    "brackets-git.gitTimeout": 30,
+    "brackets-git.terminalCommand": null,
+    "brackets-git.terminalCommandArgs": null,
+    "brackets-git.debugMode": false,
+    "brackets-wsSanitizer.enabled": true,
+    "brackets-filetree-sync.enabled": true,
+    "brackets-inspect-editor-dom.enabled": true,
+    "brackets-editorconfig.enabled": true,
+    "brackets-css-color-preview.enabled": true,
+    "vimderbar.enabled": false,
+    "mikaeljorhult.bracketsAutoprefixer.visualCascade": true,
+    "mikaeljorhult.bracketsAutoprefixer.browsers": []
+}
